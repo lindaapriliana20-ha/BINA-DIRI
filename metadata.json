@@ -1,0 +1,11 @@
+{
+  "name": "CINTA NADI (Cermin Digital Bina Diri)",
+  "description": "Aplikasi cermin interaktif untuk latihan bina diri menggosok gigi, mencuci tangan, dan menyisir rambut bagi anak tunagrahita dengan kamera, skor berjalan, pengingat suara lembut, dan perayaan selamat hebat.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
